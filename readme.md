@@ -10,4 +10,4 @@ The backend is an ASP.NET Core application that process requests from the client
 
 ## More Examples
 
-- [Get Started - Dashboard Component in Blazor WebAssembly Application](https://github.com/natakazakova/dashboard-blazor-webassembly-app)
+- [Get Started - Dashboard Component in Blazor WebAssembly Application](https://github.com/DevExpress-Examples/dashboard-blazor-webassembly-app)
