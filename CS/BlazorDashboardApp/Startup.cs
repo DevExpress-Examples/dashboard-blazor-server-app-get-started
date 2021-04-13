@@ -1,4 +1,3 @@
-using BlazorDashboardApp.Data;
 using DevExpress.DashboardAspNetCore;
 using DevExpress.DashboardCommon;
 using DevExpress.DashboardWeb;
@@ -26,7 +25,6 @@ namespace BlazorDashboardApp {
         public void ConfigureServices(IServiceCollection services) {
             services.AddRazorPages();
             services.AddServerSideBlazor();
-            services.AddSingleton<WeatherForecastService>();
             services.AddMvc()
                     .AddDefaultDashboardController(configurator => {
                     // Register Dashboard Storage
