@@ -2,7 +2,7 @@
 
 This project demonstrates how you can incorporate a DevExpress Dashboard component into a [Blazor Server](https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-5.0#blazor-server) application. Use it as a template when you need to create a similar web application.
 
-The backend is an ASP.NET Core application that processes requests from the client. UI updates, event handling, and JavaScript calls are handled over a SignalR connection. 
+`DxDashboard` wraps the JavaScript [DashboardControl](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardControl) and uses an ASP.NET Core backend with the Dashboard Controller to handle client data requests.
 
 ## Documentation
 
