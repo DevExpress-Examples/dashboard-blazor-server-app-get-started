@@ -6,7 +6,7 @@
     <Folder Include="App_Data\Dashboards\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.AspNetCore.Dashboard" Version="21.1.5" />
-    <PackageReference Include="DevExpress.Blazor.Dashboard" Version="21.1.5" />
+    <PackageReference Include="DevExpress.AspNetCore.Dashboard" Version="21.1.6" />
+    <PackageReference Include="DevExpress.Blazor.Dashboard" Version="21.1.6" />
   </ItemGroup>
 </Project>
