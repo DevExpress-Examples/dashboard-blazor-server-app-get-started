@@ -9,6 +9,13 @@ This project demonstrates how you can incorporate a DevExpress Dashboard compone
 
 The Dashboard component wraps the JavaScript [DashboardControl](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardControl) and uses an ASP.NET Core backend with the Dashboard Controller to handle client data requests.
 
+<!-- default file list -->
+## Files to Look At
+
+* [Dashboard.razor](./CS/BlazorDashboardApp/Pages/Dashboard.razor)
+* [Startup.cs](./CS/BlazorDashboardApp/Startup.cs)
+<!-- default file list end -->
+
 ## Documentation
 
 - [Create a Blazor Server Dashboard Application](https://docs.devexpress.com/Dashboard/403029?v=21.1)
