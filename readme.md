@@ -22,7 +22,6 @@ The Dashboard component wraps the JavaScript [DashboardControl](https://docs.dev
 
 ## More Examples
 
-- [Dashboard Blazor Server App - Add a Web Dashboard for .NET 5](https://github.com/DevExpress-Examples/dashboard-blazor-server-app)
 - [Dashboard Blazor Server App - Configuration](https://github.com/DevExpress-Examples/dashboard-blazor-server-configuration)
 - [Dashboard Blazor Server App - JavaScript Customization](https://github.com/DevExpress-Examples/dashboard-blazor-server-js-customization)
 - [Dashboard Component in Blazor WebAssembly Application](https://github.com/DevExpress-Examples/dashboard-blazor-webassembly-app)
