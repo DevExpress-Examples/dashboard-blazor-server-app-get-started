@@ -18,7 +18,7 @@ The Dashboard component wraps the JavaScript [DashboardControl](https://docs.dev
 
 ## Documentation
 
-- [Create a Blazor Server Dashboard Application](https://docs.devexpress.com/Dashboard/403029)
+- [Create a Blazor Server Dashboard Application](https://docs.devexpress.com/Dashboard/403029?v=21.2)
 
 ## More Examples
 
