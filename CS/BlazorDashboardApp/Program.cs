@@ -4,7 +4,6 @@ using DevExpress.DashboardCommon;
 using DevExpress.DashboardWeb;
 using DevExpress.DataAccess.Json;
 using Microsoft.Extensions.FileProviders;
-using System;
 
 var builder = WebApplication.CreateBuilder(args);
 IFileProvider fileProvider = builder.Environment.ContentRootFileProvider;
@@ -13,7 +12,6 @@ IConfiguration configuration = builder.Configuration;
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
-// Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddScoped<DashboardConfigurator>((IServiceProvider serviceProvider) => {
