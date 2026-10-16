@@ -6,8 +6,7 @@
 <!-- default badges end -->
 # Dashboard for Blazor Server - Get Started
 
-The project demonstrates how you can incorporate a DevExpress Dashboard component into a [Blazor Server](https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-6.0#blazor-server) application. Use it as a template when you need to create a similar web application. The example applies to framework .NET 8.
-
+The project demonstrates how you can incorporate a DevExpress Dashboard component into a [Blazor Server](https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-6.0#blazor-server) application. Use it as a template when you need to create a similar web application.
 ![Dashboard Blazor Server App](images/blazor-dashboard-app-gs.png)
 
 The Dashboard component wraps the JavaScript [DashboardControl](https://docs.devexpress.com/Dashboard/js-DevExpress.Dashboard.DashboardControl) and uses an ASP.NET Core backend withthe Dashboard Controller to handle client data requests.
